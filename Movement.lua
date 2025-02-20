@@ -651,7 +651,6 @@ local function movementClimb()
 		return false
 	end
 
-	-- --- Rest of your original code below ---
 	humanoid.AutoRotate = false
 	humanoid.WalkSpeed = 0
 
